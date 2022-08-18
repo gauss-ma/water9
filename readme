@@ -1,0 +1,12 @@
+
+# Water9:
+
+WATER9, the wastewater treatment model, is a Windows based computer program and consists of analytical expressions for estimating air emissions of individual waste constituents in wastewater collection, storage, treatment, and disposal facilities; a database listing many of the organic compounds; and procedures for obtaining reports of constituent fates, including air emissions and treatment effectiveness.
+
+WATER9 is able to evaluate a full facility that contains multiple wastewater inlet streams, multiple collection systems, and complex treatment configurations. WATER9 provides separate emission estimates for each individual compound that is identified as a constituent of the wastes. The emission estimates are based upon the properties of the compound and its concentration in the wastes. To obtain these emission estimates, the user must identify the compounds of interest and provide their concentrations in the wastes. The identification of compounds can be made by selecting them from the database that accompanies the program or by entering new information describing the properties of a compound not contained in the database.
+
+WATER9 has the ability to use site-specific compound property information, and the ability to estimate missing compound property values. Estimates of the total air emissions from the wastes are obtained by summing the estimates for the individual compounds.
+
+The EPA document, AIR EMISSIONS MODELS FOR WASTE AND WASTEWATER includes the equations used in the WATER9 model. 
+
+
